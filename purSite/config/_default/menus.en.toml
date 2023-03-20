@@ -1,0 +1,48 @@
+# main menu
+[[main]]
+name = "Home"
+url = ""
+weight = 1
+
+[[main]]
+name = "Team"
+url = "team/"
+weight = 2
+
+[[main]]
+name = "Dienstleistungen"
+url = "services/"
+weight = 3
+
+[[main]]
+name = "FAQ"
+url = "faq/"
+weight = 4
+
+[[main]]
+name = "Impressionen"
+url = "impressions/"
+weight = 5
+
+# footer menu left
+[[footer_left]]
+name = "Über Uns"
+url = "team/"
+
+# footer menu middle
+[[footer_middle]]
+name = "Services"
+url = "services/"
+
+# footer menu right
+[[footer_right]]
+name = "Privacy Policy"
+url = "privacy-policy/"
+
+[[footer_right]]
+name = "Terms & Conditions"
+url = "terms-conditions/"
+
+[[footer_right]]
+name = "FAQ"
+url = "faq/"
