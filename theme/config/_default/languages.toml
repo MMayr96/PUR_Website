@@ -1,0 +1,27 @@
+############################# English ############################
+[en]
+languageName = "En"
+title = "PUR Freistadt"
+contentDir = "content/english" # content/english
+weight = 1
+########### footer content ##########
+footer_menu_left = "Company"
+footer_menu_middle = "Product"
+footer_menu_right = "Support"
+# copyright
+copyright = "Design By [M.Mayr](https://mmayr96.github.io). Copyright PUR Freistadt(https://pur-freistadt.at)"
+
+
+
+############################# Deutsch ############################
+[de]
+languageName = "De"
+title = "PUR Freistadt"
+contentDir = "content/deutsch" # content/german
+weight = 2
+########### footer content ##########
+footer_menu_left = "Firma"
+footer_menu_middle = "Produkte"
+footer_menu_right = "Support"
+# copyright
+copyright = "Design By [M.Mayr](https://mmayr96.github.io). Copyright PUR Freistadt(https://pur-freistadt.at)"
